@@ -1,0 +1,6 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\11.  Number as Words\bin\Debug\_11.Number_as_Words.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\11.  Number as Words\bin\Debug\_11.Number_as_Words.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\11.  Number as Words\bin\Debug\_11.Number_as_Words.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\11.  Number as Words\obj\Debug\11.  Number as Words.csprojResolveAssemblyReference.cache
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\11.  Number as Words\obj\Debug\_11.Number_as_Words.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\11.  Number as Words\obj\Debug\_11.Number_as_Words.pdb

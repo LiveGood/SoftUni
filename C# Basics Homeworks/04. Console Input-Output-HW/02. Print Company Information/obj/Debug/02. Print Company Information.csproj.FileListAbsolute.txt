@@ -1,0 +1,12 @@
+D:\Za uchene\Програмиране\Soft Uni\Classworks\04. Console Input-Output\02. Print Company Information\bin\Debug\_02.Print_Company_Information.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Classworks\04. Console Input-Output\02. Print Company Information\bin\Debug\_02.Print_Company_Information.exe
+D:\Za uchene\Програмиране\Soft Uni\Classworks\04. Console Input-Output\02. Print Company Information\bin\Debug\_02.Print_Company_Information.pdb
+D:\Za uchene\Програмиране\Soft Uni\Classworks\04. Console Input-Output\02. Print Company Information\obj\Debug\02. Print Company Information.csprojResolveAssemblyReference.cache
+D:\Za uchene\Програмиране\Soft Uni\Classworks\04. Console Input-Output\02. Print Company Information\obj\Debug\_02.Print_Company_Information.exe
+D:\Za uchene\Програмиране\Soft Uni\Classworks\04. Console Input-Output\02. Print Company Information\obj\Debug\_02.Print_Company_Information.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\02. Print Company Information\bin\Debug\_02.Print_Company_Information.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\02. Print Company Information\obj\Debug\_02.Print_Company_Information.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\02. Print Company Information\obj\Debug\_02.Print_Company_Information.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\02. Print Company Information\bin\Debug\_02.Print_Company_Information.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\02. Print Company Information\bin\Debug\_02.Print_Company_Information.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\02. Print Company Information\obj\Debug\02. Print Company Information.csprojResolveAssemblyReference.cache

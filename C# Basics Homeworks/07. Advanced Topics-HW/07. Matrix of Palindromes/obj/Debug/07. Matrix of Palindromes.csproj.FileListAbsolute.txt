@@ -1,0 +1,5 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\07. Matrix of Palindromes\bin\Debug\_07.Matrix_of_Palindromes.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\07. Matrix of Palindromes\bin\Debug\_07.Matrix_of_Palindromes.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\07. Matrix of Palindromes\obj\Debug\07. Matrix of Palindromes.csprojResolveAssemblyReference.cache
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\07. Matrix of Palindromes\obj\Debug\_07.Matrix_of_Palindromes.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\07. Matrix of Palindromes\obj\Debug\_07.Matrix_of_Palindromes.pdb

@@ -1,0 +1,2 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\Problem 6. Calculate N(factorial) (divide) K(factorial)\obj\Debug\Problem_6.Calculate_N_factorial___divide__K_factorial_.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\Problem 6. Calculate N(factorial) (divide) K(factorial)\obj\Debug\Problem_6.Calculate_N_factorial___divide__K_factorial_.pdb

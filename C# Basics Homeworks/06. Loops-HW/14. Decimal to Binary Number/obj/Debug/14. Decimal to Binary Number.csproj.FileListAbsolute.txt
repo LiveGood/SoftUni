@@ -1,0 +1,4 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\14. Decimal to Binary Number\bin\Debug\_14.Decimal_to_Binary_Number.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\14. Decimal to Binary Number\bin\Debug\_14.Decimal_to_Binary_Number.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\14. Decimal to Binary Number\obj\Debug\_14.Decimal_to_Binary_Number.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\14. Decimal to Binary Number\obj\Debug\_14.Decimal_to_Binary_Number.pdb

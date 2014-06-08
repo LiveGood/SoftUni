@@ -1,0 +1,3 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\Primitive Types and Variables-HW\03. Comparing Floats\bin\Debug\_03.Comparing_Floats.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\Primitive Types and Variables-HW\03. Comparing Floats\obj\Debug\_03.Comparing_Floats.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\Primitive Types and Variables-HW\03. Comparing Floats\obj\Debug\_03.Comparing_Floats.pdb

@@ -1,0 +1,9 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\Primitive Types and Variables-HW\05. Unicode Value\bin\Debug\_05.Unicode_Value.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\Primitive Types and Variables-HW\05. Unicode Value\obj\Debug\_05.Unicode_Value.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\Primitive Types and Variables-HW\05. Unicode Value\obj\Debug\_05.Unicode_Value.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\02. Primitive Types and Variables-HW\05. Unicode Value\bin\Debug\_05.Unicode_Value.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\02. Primitive Types and Variables-HW\05. Unicode Value\obj\Debug\_05.Unicode_Value.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\02. Primitive Types and Variables-HW\05. Unicode Value\obj\Debug\_05.Unicode_Value.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\02. Primitive Types and Variables-HW\05. Unicode Value\bin\Debug\_05.Unicode_Value.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\02. Primitive Types and Variables-HW\05. Unicode Value\bin\Debug\_05.Unicode_Value.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\02. Primitive Types and Variables-HW\05. Unicode Value\obj\Debug\04. Unicode Character.csprojResolveAssemblyReference.cache

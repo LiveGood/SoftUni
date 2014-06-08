@@ -1,0 +1,5 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\06. Loops-HW\bin\Debug\_06.Loops_HW.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\06. Loops-HW\bin\Debug\_06.Loops_HW.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\06. Loops-HW\obj\Debug\01. Numbers from 1 to N.csprojResolveAssemblyReference.cache
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\06. Loops-HW\obj\Debug\_06.Loops_HW.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\06. Loops-HW\obj\Debug\_06.Loops_HW.pdb

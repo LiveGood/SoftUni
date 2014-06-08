@@ -1,0 +1,5 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\02. Prime Checker\bin\Debug\_02.Prime_Checker.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\02. Prime Checker\bin\Debug\_02.Prime_Checker.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\02. Prime Checker\obj\Debug\_02.Prime_Checker.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\02. Prime Checker\obj\Debug\_02.Prime_Checker.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\02. Prime Checker\obj\Debug\02. Prime Checker.csprojResolveAssemblyReference.cache

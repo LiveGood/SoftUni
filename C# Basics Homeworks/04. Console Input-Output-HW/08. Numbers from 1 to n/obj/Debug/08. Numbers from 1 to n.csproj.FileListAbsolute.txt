@@ -1,0 +1,5 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\08. Numbers from 1 to n\bin\Debug\_08.Numbers_from_1_to_n.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\08. Numbers from 1 to n\bin\Debug\_08.Numbers_from_1_to_n.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\08. Numbers from 1 to n\bin\Debug\_08.Numbers_from_1_to_n.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\08. Numbers from 1 to n\obj\Debug\_08.Numbers_from_1_to_n.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\08. Numbers from 1 to n\obj\Debug\_08.Numbers_from_1_to_n.pdb

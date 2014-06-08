@@ -1,0 +1,6 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\03. Check for a Play Card\bin\Debug\_03.Check_for_a_Play_Card.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\03. Check for a Play Card\bin\Debug\_03.Check_for_a_Play_Card.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\03. Check for a Play Card\bin\Debug\_03.Check_for_a_Play_Card.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\03. Check for a Play Card\obj\Debug\03. Check for a Play Card.csprojResolveAssemblyReference.cache
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\03. Check for a Play Card\obj\Debug\_03.Check_for_a_Play_Card.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\03. Check for a Play Card\obj\Debug\_03.Check_for_a_Play_Card.pdb

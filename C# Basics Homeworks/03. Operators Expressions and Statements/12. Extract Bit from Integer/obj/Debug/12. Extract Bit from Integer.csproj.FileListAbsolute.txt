@@ -1,0 +1,5 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\12. Extract Bit from Integer\bin\Debug\_12.Extract_Bit_from_Integer.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\12. Extract Bit from Integer\bin\Debug\_12.Extract_Bit_from_Integer.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\12. Extract Bit from Integer\bin\Debug\_12.Extract_Bit_from_Integer.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\12. Extract Bit from Integer\obj\Debug\_12.Extract_Bit_from_Integer.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\12. Extract Bit from Integer\obj\Debug\_12.Extract_Bit_from_Integer.pdb

@@ -1,0 +1,5 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\06. Third Digit 7\bin\Debug\_06.Third_Digit_7.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\06. Third Digit 7\bin\Debug\_06.Third_Digit_7.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\06. Third Digit 7\bin\Debug\_06.Third_Digit_7.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\06. Third Digit 7\obj\Debug\_06.Third_Digit_7.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\06. Third Digit 7\obj\Debug\_06.Third_Digit_7.pdb

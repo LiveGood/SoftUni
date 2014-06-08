@@ -1,0 +1,9 @@
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\12. Bank Account Data\bin\Debug\_12.Bank_Account_Data.exe.config
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\12. Bank Account Data\bin\Debug\_12.Bank_Account_Data.exe
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\12. Bank Account Data\bin\Debug\_12.Bank_Account_Data.pdb
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\12. Bank Account Data\obj\Debug\12. Bank Account Data.csprojResolveAssemblyReference.cache
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\12. Bank Account Data\obj\Debug\_12.Bank_Account_Data.exe
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\12. Bank Account Data\obj\Debug\_12.Bank_Account_Data.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\Primitive Types and Variables-HW\12. Bank Account Data\bin\Debug\_12.Bank_Account_Data.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\Primitive Types and Variables-HW\12. Bank Account Data\obj\Debug\_12.Bank_Account_Data.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\Primitive Types and Variables-HW\12. Bank Account Data\obj\Debug\_12.Bank_Account_Data.pdb

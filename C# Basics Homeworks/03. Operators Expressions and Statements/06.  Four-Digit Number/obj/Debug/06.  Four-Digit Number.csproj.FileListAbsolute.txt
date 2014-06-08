@@ -1,0 +1,6 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\06.  Four-Digit Number\bin\Debug\_06.Four_Digit_Number.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\06.  Four-Digit Number\bin\Debug\_06.Four_Digit_Number.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\06.  Four-Digit Number\bin\Debug\_06.Four_Digit_Number.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\06.  Four-Digit Number\obj\Debug\06.  Four-Digit Number.csprojResolveAssemblyReference.cache
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\06.  Four-Digit Number\obj\Debug\_06.Four_Digit_Number.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\06.  Four-Digit Number\obj\Debug\_06.Four_Digit_Number.pdb

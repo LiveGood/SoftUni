@@ -1,0 +1,5 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\05. The Biggest of 3 Numbers\bin\Debug\_05.The_Biggest_of_3_Numbers.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\05. The Biggest of 3 Numbers\bin\Debug\_05.The_Biggest_of_3_Numbers.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\05. The Biggest of 3 Numbers\bin\Debug\_05.The_Biggest_of_3_Numbers.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\05. The Biggest of 3 Numbers\obj\Debug\_05.The_Biggest_of_3_Numbers.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\05. The Biggest of 3 Numbers\obj\Debug\_05.The_Biggest_of_3_Numbers.pdb

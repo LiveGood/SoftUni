@@ -1,0 +1,4 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\12.  Randomize the Numbers 1…N\bin\Debug\_12.Randomize_the_Numbers_1_N.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\12.  Randomize the Numbers 1…N\bin\Debug\_12.Randomize_the_Numbers_1_N.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\12.  Randomize the Numbers 1…N\obj\Debug\_12.Randomize_the_Numbers_1_N.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\12.  Randomize the Numbers 1…N\obj\Debug\_12.Randomize_the_Numbers_1_N.pdb

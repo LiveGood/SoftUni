@@ -1,0 +1,8 @@
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\06. Boolean Variable\bin\Debug\_06.Boolean_Variable.exe.config
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\06. Boolean Variable\bin\Debug\_06.Boolean_Variable.exe
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\06. Boolean Variable\bin\Debug\_06.Boolean_Variable.pdb
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\06. Boolean Variable\obj\Debug\_06.Boolean_Variable.exe
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\06. Boolean Variable\obj\Debug\_06.Boolean_Variable.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\Primitive Types and Variables-HW\06. Boolean Variable\bin\Debug\_06.Boolean_Variable.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\Primitive Types and Variables-HW\06. Boolean Variable\obj\Debug\_06.Boolean_Variable.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\Primitive Types and Variables-HW\06. Boolean Variable\obj\Debug\_06.Boolean_Variable.pdb

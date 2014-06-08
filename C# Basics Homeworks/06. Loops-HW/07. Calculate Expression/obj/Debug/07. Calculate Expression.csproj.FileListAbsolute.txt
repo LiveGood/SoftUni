@@ -1,0 +1,5 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\07. Calculate Expression\bin\Debug\_07.Calculate_Expression.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\07. Calculate Expression\bin\Debug\_07.Calculate_Expression.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\07. Calculate Expression\obj\Debug\07. Calculate Expression.csprojResolveAssemblyReference.cache
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\07. Calculate Expression\obj\Debug\_07.Calculate_Expression.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\07. Calculate Expression\obj\Debug\_07.Calculate_Expression.pdb

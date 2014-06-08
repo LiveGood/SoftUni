@@ -1,0 +1,5 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\10. Join Lists\bin\Debug\_10.Join_Lists.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\10. Join Lists\bin\Debug\_10.Join_Lists.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\10. Join Lists\obj\Debug\10. Join Lists.csprojResolveAssemblyReference.cache
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\10. Join Lists\obj\Debug\_10.Join_Lists.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\10. Join Lists\obj\Debug\_10.Join_Lists.pdb

@@ -1,0 +1,5 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\048. Digit as Word\bin\Debug\_048.Digit_as_Word.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\048. Digit as Word\bin\Debug\_048.Digit_as_Word.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\048. Digit as Word\bin\Debug\_048.Digit_as_Word.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\048. Digit as Word\obj\Debug\_048.Digit_as_Word.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\048. Digit as Word\obj\Debug\_048.Digit_as_Word.pdb

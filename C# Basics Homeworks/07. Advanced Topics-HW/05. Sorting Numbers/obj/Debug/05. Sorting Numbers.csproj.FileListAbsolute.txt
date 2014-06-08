@@ -1,0 +1,5 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\05. Sorting Numbers\bin\Debug\_05.Sorting_Numbers.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\05. Sorting Numbers\bin\Debug\_05.Sorting_Numbers.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\05. Sorting Numbers\obj\Debug\_05.Sorting_Numbers.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\05. Sorting Numbers\obj\Debug\_05.Sorting_Numbers.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\05. Sorting Numbers\obj\Debug\05. Sorting Numbers.csprojResolveAssemblyReference.cache

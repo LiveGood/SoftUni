@@ -1,0 +1,5 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\06. Quadratic Equation\bin\Debug\_06.Quadratic_Equation.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\06. Quadratic Equation\bin\Debug\_06.Quadratic_Equation.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\06. Quadratic Equation\bin\Debug\_06.Quadratic_Equation.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\06. Quadratic Equation\obj\Debug\_06.Quadratic_Equation.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\06. Quadratic Equation\obj\Debug\_06.Quadratic_Equation.pdb

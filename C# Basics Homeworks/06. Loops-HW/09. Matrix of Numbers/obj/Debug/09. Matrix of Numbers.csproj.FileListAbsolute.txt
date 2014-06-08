@@ -1,0 +1,4 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\09. Matrix of Numbers\bin\Debug\_09.Matrix_of_Numbers.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\09. Matrix of Numbers\bin\Debug\_09.Matrix_of_Numbers.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\09. Matrix of Numbers\obj\Debug\_09.Matrix_of_Numbers.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\09. Matrix of Numbers\obj\Debug\_09.Matrix_of_Numbers.pdb

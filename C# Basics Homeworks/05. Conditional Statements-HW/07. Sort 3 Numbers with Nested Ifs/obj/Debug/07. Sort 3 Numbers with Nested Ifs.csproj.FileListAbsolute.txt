@@ -1,0 +1,5 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\07. Sort 3 Numbers with Nested Ifs\bin\Debug\_07.Sort_3_Numbers_with_Nested_Ifs.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\07. Sort 3 Numbers with Nested Ifs\bin\Debug\_07.Sort_3_Numbers_with_Nested_Ifs.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\07. Sort 3 Numbers with Nested Ifs\bin\Debug\_07.Sort_3_Numbers_with_Nested_Ifs.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\07. Sort 3 Numbers with Nested Ifs\obj\Debug\_07.Sort_3_Numbers_with_Nested_Ifs.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\07. Sort 3 Numbers with Nested Ifs\obj\Debug\_07.Sort_3_Numbers_with_Nested_Ifs.pdb

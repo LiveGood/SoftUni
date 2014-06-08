@@ -1,0 +1,8 @@
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\11. Employee\bin\Debug\_11.Employee.exe.config
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\11. Employee\bin\Debug\_11.Employee.exe
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\11. Employee\bin\Debug\_11.Employee.pdb
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\11. Employee\obj\Debug\_11.Employee.exe
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\11. Employee\obj\Debug\_11.Employee.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\Primitive Types and Variables-HW\11. Employee\bin\Debug\_11.Employee.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\Primitive Types and Variables-HW\11. Employee\obj\Debug\_11.Employee.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\Primitive Types and Variables-HW\11. Employee\obj\Debug\_11.Employee.pdb

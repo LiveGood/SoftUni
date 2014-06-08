@@ -1,0 +1,6 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\Falling Stones\bin\Debug\Falling Stones.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\Falling Stones\bin\Debug\Falling Stones.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\Falling Stones\bin\Debug\Falling Stones.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\Falling Stones\obj\Debug\Falling Stones.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\Falling Stones\obj\Debug\Falling Stones.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\Falling Stones\obj\Debug\Falling Rocks.csprojResolveAssemblyReference.cache

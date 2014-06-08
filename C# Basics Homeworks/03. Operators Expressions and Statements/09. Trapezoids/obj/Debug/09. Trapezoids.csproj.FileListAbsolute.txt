@@ -1,0 +1,5 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\09. Trapezoids\bin\Debug\_09.Trapezoids.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\09. Trapezoids\bin\Debug\_09.Trapezoids.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\09. Trapezoids\bin\Debug\_09.Trapezoids.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\09. Trapezoids\obj\Debug\_09.Trapezoids.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\09. Trapezoids\obj\Debug\_09.Trapezoids.pdb

@@ -1,0 +1,5 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\09. Remove Names\bin\Debug\_10.Remove_Names.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\09. Remove Names\bin\Debug\_10.Remove_Names.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\09. Remove Names\obj\Debug\09. Remove Names.csprojResolveAssemblyReference.cache
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\09. Remove Names\obj\Debug\_10.Remove_Names.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\09. Remove Names\obj\Debug\_10.Remove_Names.pdb

@@ -1,0 +1,5 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\12. Count of Names\bin\Debug\_12.Count_of_Names.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\12. Count of Names\bin\Debug\_12.Count_of_Names.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\12. Count of Names\obj\Debug\12. Count of Names.csprojResolveAssemblyReference.cache
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\12. Count of Names\obj\Debug\_12.Count_of_Names.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\12. Count of Names\obj\Debug\_12.Count_of_Names.pdb

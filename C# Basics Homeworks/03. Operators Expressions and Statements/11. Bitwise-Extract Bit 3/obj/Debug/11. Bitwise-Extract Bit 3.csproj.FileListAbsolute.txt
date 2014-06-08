@@ -1,0 +1,5 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\11. Bitwise-Extract Bit 3\bin\Debug\_11.Bitwise_Extract_Bit_3.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\11. Bitwise-Extract Bit 3\bin\Debug\_11.Bitwise_Extract_Bit_3.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\11. Bitwise-Extract Bit 3\bin\Debug\_11.Bitwise_Extract_Bit_3.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\11. Bitwise-Extract Bit 3\obj\Debug\_11.Bitwise_Extract_Bit_3.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\11. Bitwise-Extract Bit 3\obj\Debug\_11.Bitwise_Extract_Bit_3.pdb

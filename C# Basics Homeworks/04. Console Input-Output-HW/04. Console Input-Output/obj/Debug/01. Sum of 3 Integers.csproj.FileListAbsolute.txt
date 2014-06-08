@@ -1,0 +1,12 @@
+D:\Za uchene\Програмиране\Soft Uni\Classworks\04. Console Input-Output\04. Console Input-Output\bin\Debug\_04.Console_Input_Output.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Classworks\04. Console Input-Output\04. Console Input-Output\bin\Debug\_04.Console_Input_Output.exe
+D:\Za uchene\Програмиране\Soft Uni\Classworks\04. Console Input-Output\04. Console Input-Output\bin\Debug\_04.Console_Input_Output.pdb
+D:\Za uchene\Програмиране\Soft Uni\Classworks\04. Console Input-Output\04. Console Input-Output\obj\Debug\01. Sum of 3 Integers.csprojResolveAssemblyReference.cache
+D:\Za uchene\Програмиране\Soft Uni\Classworks\04. Console Input-Output\04. Console Input-Output\obj\Debug\_04.Console_Input_Output.exe
+D:\Za uchene\Програмиране\Soft Uni\Classworks\04. Console Input-Output\04. Console Input-Output\obj\Debug\_04.Console_Input_Output.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\04. Console Input-Output\bin\Debug\_04.Console_Input_Output.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\04. Console Input-Output\obj\Debug\_04.Console_Input_Output.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\04. Console Input-Output\obj\Debug\_04.Console_Input_Output.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\04. Console Input-Output\bin\Debug\_04.Console_Input_Output.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\04. Console Input-Output\bin\Debug\_04.Console_Input_Output.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\04. Console Input-Output\obj\Debug\01. Sum of 3 Integers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\17. Perimeter and Area of Polygon\bin\Debug\_17.Perimeter_and_Area_of_Polygon.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\17. Perimeter and Area of Polygon\bin\Debug\_17.Perimeter_and_Area_of_Polygon.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\17. Perimeter and Area of Polygon\obj\Debug\_17.Perimeter_and_Area_of_Polygon.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\17. Perimeter and Area of Polygon\obj\Debug\_17.Perimeter_and_Area_of_Polygon.pdb

@@ -1,0 +1,2 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\12. Spiral Matrix (1)\obj\Debug\_12.Spiral_Matrix__1_.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\12. Spiral Matrix (1)\obj\Debug\_12.Spiral_Matrix__1_.pdb

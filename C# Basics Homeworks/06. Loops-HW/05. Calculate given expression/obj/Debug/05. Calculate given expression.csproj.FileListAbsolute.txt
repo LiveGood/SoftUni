@@ -1,0 +1,4 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\05. Calculate given expression\bin\Debug\_05.Calculate_given_expression.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\05. Calculate given expression\bin\Debug\_05.Calculate_given_expression.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\05. Calculate given expression\obj\Debug\_05.Calculate_given_expression.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\05. Calculate given expression\obj\Debug\_05.Calculate_given_expression.pdb

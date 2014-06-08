@@ -1,0 +1,5 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\0Problem 9. Sum of n Numbers\bin\Debug\_0Problem_9.Sum_of_n_Numbers.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\0Problem 9. Sum of n Numbers\bin\Debug\_0Problem_9.Sum_of_n_Numbers.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\0Problem 9. Sum of n Numbers\bin\Debug\_0Problem_9.Sum_of_n_Numbers.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\0Problem 9. Sum of n Numbers\obj\Debug\_0Problem_9.Sum_of_n_Numbers.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\0Problem 9. Sum of n Numbers\obj\Debug\_0Problem_9.Sum_of_n_Numbers.pdb

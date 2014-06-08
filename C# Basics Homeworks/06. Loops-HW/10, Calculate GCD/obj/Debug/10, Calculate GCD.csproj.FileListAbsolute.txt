@@ -1,0 +1,5 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\10, Calculate GCD\bin\Debug\10, Calculate GCD.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\10, Calculate GCD\bin\Debug\10, Calculate GCD.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\10, Calculate GCD\obj\Debug\10, Calculate GCD.csprojResolveAssemblyReference.cache
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\10, Calculate GCD\obj\Debug\10, Calculate GCD.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\10, Calculate GCD\obj\Debug\10, Calculate GCD.pdb

@@ -1,0 +1,5 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\04. Multiplication Sign\bin\Debug\_04.Multiplication_Sign.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\04. Multiplication Sign\bin\Debug\_04.Multiplication_Sign.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\04. Multiplication Sign\bin\Debug\_04.Multiplication_Sign.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\04. Multiplication Sign\obj\Debug\_04.Multiplication_Sign.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\05. Conditional Statements-HW\04. Multiplication Sign\obj\Debug\_04.Multiplication_Sign.pdb

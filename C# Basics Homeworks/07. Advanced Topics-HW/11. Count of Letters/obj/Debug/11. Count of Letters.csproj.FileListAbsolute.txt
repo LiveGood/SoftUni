@@ -1,0 +1,5 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\11. Count of Letters\bin\Debug\_11.Count_of_Letters.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\11. Count of Letters\bin\Debug\_11.Count_of_Letters.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\11. Count of Letters\obj\Debug\11. Count of Letters.csprojResolveAssemblyReference.cache
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\11. Count of Letters\obj\Debug\_11.Count_of_Letters.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\11. Count of Letters\obj\Debug\_11.Count_of_Letters.pdb

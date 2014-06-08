@@ -1,0 +1,8 @@
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.exe.config
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.exe
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.pdb
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\14. Print the ASCII Table\obj\Debug\_14.Print_the_ASCII_Table.exe
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\14. Print the ASCII Table\obj\Debug\_14.Print_the_ASCII_Table.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\Primitive Types and Variables-HW\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\Primitive Types and Variables-HW\14. Print the ASCII Table\obj\Debug\_14.Print_the_ASCII_Table.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\Primitive Types and Variables-HW\14. Print the ASCII Table\obj\Debug\_14.Print_the_ASCII_Table.pdb

@@ -1,0 +1,5 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\08.  Longest Non-Decreasing Subsequence\bin\Debug\_08.Longest_Non_Decreasing_Subsequence.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\08.  Longest Non-Decreasing Subsequence\bin\Debug\_08.Longest_Non_Decreasing_Subsequence.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\08.  Longest Non-Decreasing Subsequence\obj\Debug\_08.Longest_Non_Decreasing_Subsequence.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\08.  Longest Non-Decreasing Subsequence\obj\Debug\_08.Longest_Non_Decreasing_Subsequence.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\08.  Longest Non-Decreasing Subsequence\obj\Debug\08.  Longest Non-Decreasing Subsequence.csprojResolveAssemblyReference.cache

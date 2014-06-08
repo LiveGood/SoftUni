@@ -1,0 +1,5 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\03. Primes in Given Range\bin\Debug\_03.Primes_in_Given_Range.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\03. Primes in Given Range\bin\Debug\_03.Primes_in_Given_Range.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\03. Primes in Given Range\obj\Debug\_03.Primes_in_Given_Range.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\03. Primes in Given Range\obj\Debug\_03.Primes_in_Given_Range.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\07. Advanced Topics-HW\03. Primes in Given Range\obj\Debug\03. Primes in Given Range.csprojResolveAssemblyReference.cache

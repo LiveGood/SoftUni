@@ -1,0 +1,5 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\04. Number Comparer\bin\Debug\_04.Number_Comparer.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\04. Number Comparer\bin\Debug\_04.Number_Comparer.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\04. Number Comparer\bin\Debug\_04.Number_Comparer.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\04. Number Comparer\obj\Debug\_04.Number_Comparer.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\04. Console Input-Output-HW\04. Number Comparer\obj\Debug\_04.Number_Comparer.pdb

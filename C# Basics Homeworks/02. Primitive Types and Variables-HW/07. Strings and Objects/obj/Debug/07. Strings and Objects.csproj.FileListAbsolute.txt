@@ -1,0 +1,8 @@
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\07. Strings and Objects\bin\Debug\_07.Strings_and_Objects.exe.config
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\07. Strings and Objects\bin\Debug\_07.Strings_and_Objects.exe
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\07. Strings and Objects\bin\Debug\_07.Strings_and_Objects.pdb
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\07. Strings and Objects\obj\Debug\_07.Strings_and_Objects.exe
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\07. Strings and Objects\obj\Debug\_07.Strings_and_Objects.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\Primitive Types and Variables-HW\07. Strings and Objects\bin\Debug\_07.Strings_and_Objects.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\Primitive Types and Variables-HW\07. Strings and Objects\obj\Debug\_07.Strings_and_Objects.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\Primitive Types and Variables-HW\07. Strings and Objects\obj\Debug\_07.Strings_and_Objects.pdb

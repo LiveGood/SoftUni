@@ -1,0 +1,5 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\12.  Spiral Matrix\bin\Debug\_12.Spiral_Matrix.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\12.  Spiral Matrix\bin\Debug\_12.Spiral_Matrix.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\12.  Spiral Matrix\obj\Debug\12.  Spiral Matrix.csprojResolveAssemblyReference.cache
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\12.  Spiral Matrix\obj\Debug\_12.Spiral_Matrix.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\12.  Spiral Matrix\obj\Debug\_12.Spiral_Matrix.pdb

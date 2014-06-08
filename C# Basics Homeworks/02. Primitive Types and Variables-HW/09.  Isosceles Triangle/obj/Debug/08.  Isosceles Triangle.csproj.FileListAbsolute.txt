@@ -1,0 +1,3 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\Primitive Types and Variables-HW\09.  Isosceles Triangle\bin\Debug\_09.Isosceles_Triangle.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\Primitive Types and Variables-HW\09.  Isosceles Triangle\obj\Debug\_09.Isosceles_Triangle.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\Primitive Types and Variables-HW\09.  Isosceles Triangle\obj\Debug\_09.Isosceles_Triangle.pdb

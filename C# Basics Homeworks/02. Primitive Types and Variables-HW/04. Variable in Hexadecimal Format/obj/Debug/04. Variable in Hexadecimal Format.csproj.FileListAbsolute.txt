@@ -1,0 +1,9 @@
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\04. Variable in Hexadecimal Format\bin\Debug\_04.Variable_in_Hexadecimal_Format.exe.config
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\04. Variable in Hexadecimal Format\bin\Debug\_04.Variable_in_Hexadecimal_Format.exe
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\04. Variable in Hexadecimal Format\bin\Debug\_04.Variable_in_Hexadecimal_Format.pdb
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\04. Variable in Hexadecimal Format\obj\Debug\04. Variable in Hexadecimal Format.csprojResolveAssemblyReference.cache
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\04. Variable in Hexadecimal Format\obj\Debug\_04.Variable_in_Hexadecimal_Format.exe
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Primitive Types and Variables-HW\04. Variable in Hexadecimal Format\obj\Debug\_04.Variable_in_Hexadecimal_Format.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\Primitive Types and Variables-HW\04. Variable in Hexadecimal Format\bin\Debug\_04.Variable_in_Hexadecimal_Format.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\Primitive Types and Variables-HW\04. Variable in Hexadecimal Format\obj\Debug\_04.Variable_in_Hexadecimal_Format.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\Primitive Types and Variables-HW\04. Variable in Hexadecimal Format\obj\Debug\_04.Variable_in_Hexadecimal_Format.pdb

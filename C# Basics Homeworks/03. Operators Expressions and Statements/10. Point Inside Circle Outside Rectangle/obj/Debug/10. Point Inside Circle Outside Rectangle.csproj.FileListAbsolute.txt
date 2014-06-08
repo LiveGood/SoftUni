@@ -1,0 +1,6 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\10. Point Inside Circle Outside Rectangle\bin\Debug\_10.Point_Inside_Circle_Outside_Rectangle.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\10. Point Inside Circle Outside Rectangle\bin\Debug\_10.Point_Inside_Circle_Outside_Rectangle.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\10. Point Inside Circle Outside Rectangle\bin\Debug\_10.Point_Inside_Circle_Outside_Rectangle.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\10. Point Inside Circle Outside Rectangle\obj\Debug\10. Point Inside Circle Outside Rectangle.csprojResolveAssemblyReference.cache
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\10. Point Inside Circle Outside Rectangle\obj\Debug\_10.Point_Inside_Circle_Outside_Rectangle.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\03. Operators Expressions and Statements\10. Point Inside Circle Outside Rectangle\obj\Debug\_10.Point_Inside_Circle_Outside_Rectangle.pdb

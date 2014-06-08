@@ -1,0 +1,4 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\11.  Trailing Zeroes in N!\bin\Debug\_11.Trailing_Zeroes_in_N_.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\11.  Trailing Zeroes in N!\bin\Debug\_11.Trailing_Zeroes_in_N_.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\11.  Trailing Zeroes in N!\obj\Debug\_11.Trailing_Zeroes_in_N_.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\06. Loops-HW\11.  Trailing Zeroes in N!\obj\Debug\_11.Trailing_Zeroes_in_N_.pdb
