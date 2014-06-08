@@ -1,0 +1,10 @@
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Introduction To Programming-HW\16.  Print Long Sequence\bin\Debug\_16.Print_Long_Sequence.exe.config
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Introduction To Programming-HW\16.  Print Long Sequence\bin\Debug\_16.Print_Long_Sequence.exe
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Introduction To Programming-HW\16.  Print Long Sequence\bin\Debug\_16.Print_Long_Sequence.pdb
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Introduction To Programming-HW\16.  Print Long Sequence\obj\Debug\_16.Print_Long_Sequence.exe
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Introduction To Programming-HW\16.  Print Long Sequence\obj\Debug\_16.Print_Long_Sequence.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\01. Introduction To Programming-HW\16.  Print Long Sequence\bin\Debug\_16.Print_Long_Sequence.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\01. Introduction To Programming-HW\16.  Print Long Sequence\obj\Debug\_16.Print_Long_Sequence.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\01. Introduction To Programming-HW\16.  Print Long Sequence\obj\Debug\_16.Print_Long_Sequence.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\01. Introduction To Programming-HW\16.  Print Long Sequence\bin\Debug\_16.Print_Long_Sequence.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\01. Introduction To Programming-HW\16.  Print Long Sequence\bin\Debug\_16.Print_Long_Sequence.pdb

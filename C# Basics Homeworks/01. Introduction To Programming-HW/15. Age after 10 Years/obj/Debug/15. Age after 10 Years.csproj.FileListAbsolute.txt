@@ -1,0 +1,12 @@
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Introduction To Programming-HW\15. Age after 10 Years\bin\Debug\_15.Age_after_10_Years.exe.config
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Introduction To Programming-HW\15. Age after 10 Years\bin\Debug\_15.Age_after_10_Years.exe
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Introduction To Programming-HW\15. Age after 10 Years\bin\Debug\_15.Age_after_10_Years.pdb
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Introduction To Programming-HW\15. Age after 10 Years\obj\Debug\_15.Age_after_10_Years.exe
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Introduction To Programming-HW\15. Age after 10 Years\obj\Debug\_15.Age_after_10_Years.pdb
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Introduction To Programming-HW\15. Age after 10 Years\obj\Debug\15. Age after 10 Years.csprojResolveAssemblyReference.cache
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\01. Introduction To Programming-HW\15. Age after 10 Years\bin\Debug\_15.Age_after_10_Years.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\01. Introduction To Programming-HW\15. Age after 10 Years\obj\Debug\_15.Age_after_10_Years.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\01. Introduction To Programming-HW\15. Age after 10 Years\obj\Debug\_15.Age_after_10_Years.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\01. Introduction To Programming-HW\15. Age after 10 Years\bin\Debug\_15.Age_after_10_Years.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\01. Introduction To Programming-HW\15. Age after 10 Years\bin\Debug\_15.Age_after_10_Years.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\01. Introduction To Programming-HW\15. Age after 10 Years\obj\Debug\15. Age after 10 Years.csprojResolveAssemblyReference.cache

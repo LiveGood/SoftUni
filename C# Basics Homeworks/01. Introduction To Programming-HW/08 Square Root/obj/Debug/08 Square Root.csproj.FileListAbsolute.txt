@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2013\Projects\IntroductionToProgramming-HW\08 Square Root\bin\Debug\08 Square Root.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\IntroductionToProgramming-HW\08 Square Root\bin\Debug\08 Square Root.exe
+c:\users\pc\documents\visual studio 2013\Projects\IntroductionToProgramming-HW\08 Square Root\bin\Debug\08 Square Root.pdb
+c:\users\pc\documents\visual studio 2013\Projects\IntroductionToProgramming-HW\08 Square Root\obj\Debug\08 Square Root.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\IntroductionToProgramming-HW\08 Square Root\obj\Debug\08 Square Root.exe
+c:\users\pc\documents\visual studio 2013\Projects\IntroductionToProgramming-HW\08 Square Root\obj\Debug\08 Square Root.pdb

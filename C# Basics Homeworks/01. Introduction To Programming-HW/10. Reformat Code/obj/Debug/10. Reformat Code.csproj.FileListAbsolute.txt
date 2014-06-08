@@ -1,0 +1,3 @@
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\01. Introduction To Programming-HW\10. Reformat Code\bin\Debug\10 Reformat Code.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\01. Introduction To Programming-HW\10. Reformat Code\obj\Debug\10 Reformat Code.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\01. Introduction To Programming-HW\10. Reformat Code\obj\Debug\10 Reformat Code.pdb

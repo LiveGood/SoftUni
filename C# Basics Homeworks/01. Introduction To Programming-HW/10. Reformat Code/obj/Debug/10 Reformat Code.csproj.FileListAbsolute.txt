@@ -1,0 +1,8 @@
+c:\users\pc\documents\visual studio 2013\Projects\IntroductionToProgramming-HW\10 Reformat Code\bin\Debug\10 Reformat Code.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\IntroductionToProgramming-HW\10 Reformat Code\bin\Debug\10 Reformat Code.exe
+c:\users\pc\documents\visual studio 2013\Projects\IntroductionToProgramming-HW\10 Reformat Code\bin\Debug\10 Reformat Code.pdb
+c:\users\pc\documents\visual studio 2013\Projects\IntroductionToProgramming-HW\10 Reformat Code\obj\Debug\10 Reformat Code.exe
+c:\users\pc\documents\visual studio 2013\Projects\IntroductionToProgramming-HW\10 Reformat Code\obj\Debug\10 Reformat Code.pdb
+D:\Introduction To Programming-HW\10 Reformat Code\bin\Debug\10 Reformat Code.exe.config
+D:\Introduction To Programming-HW\10 Reformat Code\obj\Debug\10 Reformat Code.exe
+D:\Introduction To Programming-HW\10 Reformat Code\obj\Debug\10 Reformat Code.pdb

@@ -1,0 +1,12 @@
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Introduction To Programming-HW\08 Square Root\bin\Debug\08 Square Root.exe.config
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Introduction To Programming-HW\08 Square Root\obj\Debug\08 Square Root.exe
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Introduction To Programming-HW\08 Square Root\obj\Debug\08 Square Root.pdb
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Introduction To Programming-HW\08 Square Root\bin\Debug\08 Square Root.exe
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Introduction To Programming-HW\08 Square Root\bin\Debug\08 Square Root.pdb
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Introduction To Programming-HW\08 Square Root\obj\Debug\08. Square Root.csprojResolveAssemblyReference.cache
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\01. Introduction To Programming-HW\08 Square Root\bin\Debug\08 Square Root.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\01. Introduction To Programming-HW\08 Square Root\obj\Debug\08 Square Root.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\01. Introduction To Programming-HW\08 Square Root\obj\Debug\08 Square Root.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\01. Introduction To Programming-HW\08 Square Root\bin\Debug\08 Square Root.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\01. Introduction To Programming-HW\08 Square Root\bin\Debug\08 Square Root.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\01. Introduction To Programming-HW\08 Square Root\obj\Debug\08. Square Root.csprojResolveAssemblyReference.cache

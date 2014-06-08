@@ -1,0 +1,16 @@
+c:\users\pc\documents\visual studio 2013\Projects\IntroductionToProgramming-HW\09. Print a Sequence\bin\Debug\_09.Print_a_Sequence.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\IntroductionToProgramming-HW\09. Print a Sequence\bin\Debug\_09.Print_a_Sequence.exe
+c:\users\pc\documents\visual studio 2013\Projects\IntroductionToProgramming-HW\09. Print a Sequence\bin\Debug\_09.Print_a_Sequence.pdb
+c:\users\pc\documents\visual studio 2013\Projects\IntroductionToProgramming-HW\09. Print a Sequence\obj\Debug\_09.Print_a_Sequence.exe
+c:\users\pc\documents\visual studio 2013\Projects\IntroductionToProgramming-HW\09. Print a Sequence\obj\Debug\_09.Print_a_Sequence.pdb
+D:\Introduction To Programming-HW\09. Print a Sequence\bin\Debug\_09.Print_a_Sequence.exe.config
+D:\Introduction To Programming-HW\09. Print a Sequence\obj\Debug\_09.Print_a_Sequence.exe
+D:\Introduction To Programming-HW\09. Print a Sequence\obj\Debug\_09.Print_a_Sequence.pdb
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Introduction To Programming-HW\09. Print a Sequence\bin\Debug\_09.Print_a_Sequence.exe.config
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Introduction To Programming-HW\09. Print a Sequence\obj\Debug\_09.Print_a_Sequence.exe
+D:\Za uchene\Програмиране\Software Uni\Homeworks\Introduction To Programming-HW\09. Print a Sequence\obj\Debug\_09.Print_a_Sequence.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\01. Introduction To Programming-HW\09. Print a Sequence\bin\Debug\_09.Print_a_Sequence.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\01. Introduction To Programming-HW\09. Print a Sequence\obj\Debug\_09.Print_a_Sequence.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\01. Introduction To Programming-HW\09. Print a Sequence\obj\Debug\_09.Print_a_Sequence.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\01. Introduction To Programming-HW\09. Print a Sequence\bin\Debug\_09.Print_a_Sequence.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\01. Introduction To Programming-HW\09. Print a Sequence\bin\Debug\_09.Print_a_Sequence.pdb

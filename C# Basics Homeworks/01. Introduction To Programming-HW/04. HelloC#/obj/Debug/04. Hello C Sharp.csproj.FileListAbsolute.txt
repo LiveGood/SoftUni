@@ -1,0 +1,7 @@
+D:\Za uchene\Програмиране\Software Uni\Homeworks\IntroductionToProgramming-HW\bin\Debug\IntroductionToProgramming-HW.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\01. Introduction To Programming-HW\04. HelloC#\bin\Debug\IntroductionToProgramming-HW.exe.config
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\01. Introduction To Programming-HW\04. HelloC#\bin\Debug\IntroductionToProgramming-HW.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\01. Introduction To Programming-HW\04. HelloC#\bin\Debug\IntroductionToProgramming-HW.pdb
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\01. Introduction To Programming-HW\04. HelloC#\obj\Debug\04. Hello C Sharp.csprojResolveAssemblyReference.cache
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\01. Introduction To Programming-HW\04. HelloC#\obj\Debug\IntroductionToProgramming-HW.exe
+D:\Za uchene\Програмиране\Soft Uni\Homeworks\01. Introduction To Programming-HW\04. HelloC#\obj\Debug\IntroductionToProgramming-HW.pdb
