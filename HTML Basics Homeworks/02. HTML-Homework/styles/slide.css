@@ -1,0 +1,55 @@
+@font-face {
+    font-family: Calibri;
+    src: url("../fonts/Calibri.ttf") format("opentype");
+}
+
+body {
+    background-image: url("../images/slide.jpg");
+    background-repeat: no-repeat;
+    color: white;
+    font-family: Calibri;
+}
+.mainHeading {
+    color: #F3BE60;
+    font-size: 50px;
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+
+.whiteHeading {
+    margin-left: 80px;
+    font-size: 50px;
+    margin-top: -5px;
+    /*position: relative;*/
+}
+
+span {
+    color: #F3BE60;
+}
+.thisIs {
+    margin-left: 45px;;
+    color: #FBEEC9;
+    display: inline-block;
+}
+.insideDiv {
+    width: 1050px;
+    background-color: #20201E;
+    font-size: 34px;
+    color: #FBEEC9;
+    margin-left: 115px;
+    margin-bottom: 15px;
+    margin-top: -20px;
+    padding-left: 10px;
+    border: 1px solid #FBEEC9;
+
+}
+.bullets {
+    background-color: #F3BE60;
+    width: 15px;
+    height: 15px;
+    margin-left: 50px;
+    margin-top: 24px;
+    display: block;
+    float: left;
+}
+

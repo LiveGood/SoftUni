@@ -1,0 +1,10 @@
+body {
+    background-color: #ADD8E6;
+}
+.dramaCat {
+    width: 250px;
+    border: 1px solid black;
+}
+dt {
+    text-emphasis: em;
+}
