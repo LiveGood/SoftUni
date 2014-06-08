@@ -1,0 +1,7 @@
+// put your folder names in the Path
+
+cd D:\Path\Path\Eclipse\workspace\1.Intro-To-Java-Homework\src
+javac P06SumTwoNumbers.java
+java P06SumTwoNumbers
+
+
